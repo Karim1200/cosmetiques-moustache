@@ -6,8 +6,8 @@
   3) Modifiez la liste products pour ajouter vos vrais produits et prix.
 */
 const STORE = {
-  whatsappNumber: "213000000000",
-  facebookPage: "https://www.facebook.com/",
+  whatsappNumber: "213774883995",
+  facebookPage: "https://www.facebook.com/share/19czLcvK9V/",
   currency: "DA"
 };
 
